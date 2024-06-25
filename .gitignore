@@ -1,2 +1,7 @@
 youtube-watcher
 docker-compose.yml
+config_file.py
+__pycache__
+kafka-data
+zookeeper-data
+commands.txt
